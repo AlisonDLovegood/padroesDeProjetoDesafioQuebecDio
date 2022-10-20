@@ -1,4 +1,4 @@
-package one.digitalInnovation.gof;
+package one.digitalInnovation.gof.singleton;
 
 public class SingletonEager {
 //    quando a variavel statica é definida ele ja atribui a instancia, quando a classe for acionada ja estará pronta p ser retornada
