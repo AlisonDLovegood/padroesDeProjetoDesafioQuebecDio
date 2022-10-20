@@ -1,10 +1,10 @@
-package one.digitalinnovation.padroesDeProjetoDesafioQuebecDio;
+package one.digitalinnovation.gof;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PadroesDeProjetoDesafioQuebecDioApplicationTests {
+class LabPadroesProjetoSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
